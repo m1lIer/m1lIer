@@ -1,21 +1,14 @@
-<div align="center">
+# m1lIer
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+a+Fullstack+Developer;I+build+products+end-to-end;Frontend+%2B+Backend+%2B+DevOps" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=m1lIer&color=6366F1&style=flat-square&label=Profile+Views)
-
-</div>
+Строю продукты: база, бэкенд, фронтенд, деплой.
 
 ---
 
-### 🚀 About Me
+### О себе
 
-Fullstack-разработчик, довожу продукты от идеи до продакшена — проектирую архитектуру, пишу бэкенд и фронтенд, настраиваю деплой и инфраструктуру.
+Сейчас в работе два проекта. **outvue.me** — fashion-соцсеть с лентой образов и ML-рекомендациями. **dnnd.one** — сервис для репетиторов: календарь, часовые пояса, оплата. Оба с нуля, оба обновляются почти каждый день, оба доведены до реальных пользователей, а не лежат черновиком.
 
-- 🎓 Сейчас развиваю несколько собственных продуктов (соцсеть, edtech-платформа)
-- 🔭 Работаю с React/Next.js на фронтенде и Node.js на бэкенде
-- 🧠 Интересуюсь ML-рекомендательными системами и системным дизайном
-- ⚡ Люблю доводить проекты до реального релиза, а не оставлять в столе
+Отдельно слежу за безопасностью того, что делаю — сам провожу аудит аутентификации, хранения токенов, cookies и логирования на своих же проектах, до того как это найдёт кто-то другой.
 
 ---
 
@@ -77,10 +70,17 @@ Fashion-соцсеть: пользователи собирают образы, 
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!--
+  Основной сервис github-readme-stats.vercel.app лежит с 9 января 2026 (503 DEPLOYMENT_PAUSED,
+  у автора закончился спонсорский план на Vercel) — это не проблема аккаунта, а общий даунтайм.
+  Чтобы вернуть карточку stats + top-langs, задеплой свой инстанс:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  и замени домен ниже на свой, например:
+  <img height="165" src="https://ТВОЙ-ИНСТАНС.vercel.app/api?username=m1lIer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://ТВОЙ-ИНСТАНС.vercel.app/api/top-langs/?username=m1lIer&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+-->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=m1lIer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1lIer&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1lIer&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
