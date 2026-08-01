@@ -68,17 +68,7 @@ Fashion-соцсеть: пользователи собирают образы, 
 
 ---
 
-### 📊 GitHub Stats
 
-<!--
-  Основной сервис github-readme-stats.vercel.app лежит с 9 января 2026 (503 DEPLOYMENT_PAUSED,
-  у автора закончился спонсорский план на Vercel) — это не проблема аккаунта, а общий даунтайм.
-  Чтобы вернуть карточку stats + top-langs, задеплой свой инстанс:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  и замени домен ниже на свой, например:
-  <img height="165" src="https://ТВОЙ-ИНСТАНС.vercel.app/api?username=m1lIer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://ТВОЙ-ИНСТАНС.vercel.app/api/top-langs/?username=m1lIer&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
--->
 
 <div align="center">
 
@@ -91,7 +81,7 @@ Fashion-соцсеть: пользователи собирают образы, 
 <div align="center">
 
 <!-- TODO: замени на свои реальные контакты перед публикацией -->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/m1llrr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m1llrr@yandex.ru)
 
 </div>
